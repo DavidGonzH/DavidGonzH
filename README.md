@@ -1,53 +1,51 @@
-<!-- BANNER O ENCABEZADO -->
 <div align="center">
-  <h1>¡Hola! 👋 Soy David González Hernández </h1>
-  <h3>🎓 Estudiante de 2º de Ingeniería Informática </h3>
-  <p>Apasionado por el rendimiento a bajo nivel con <b>C++</b> y la creación de interfaces estructuradas con <b>HTML/Web</b>. Buscando oportunidades de prácticas, proyectos colaborativos y retos técnicos.</p>
+  <p>Estudiante de 2º de Ingeniería Informática · C++</p>
 
-  <a href="https://linkedin.com[tu-usuario-linkedin]" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
-    
   </a>
-  <a href="[enlace-a-tu-web-o-cv-en-pdf]" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Followers" />
   </a>
 </div>
 
-<br />
+---
+
+### Sobre mí
+
+- 🎓 Cursando 2º de **Ingeniería Informática**
+- 🛠️ Trabajo habitualmente con **C++ enfocado en estructuras de datos y desarrollo de software para empresas y particulares.
 
 ---
 
-### 🚀 Sobre mí y qué puedo aportar
+### 🧰 Stack tecnológico
 
-- 💻 **Base sólida en Ingeniería:** Actualmente cursando 2º año, enfocado en estructuras de datos, algoritmos, programación orientada a objetos y arquitectura de computadores.
-- ⚡ **Enfoque dual:** Combino la lógica y optimización de recursos en **C++**.
-- 🤝 **Disponibilidad:** Abierto a **prácticas en empresas**, colaboración en proyectos Open Source y desarrollo de soluciones para particulares.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
+<p align="left">
   <img src="https://shields.io" alt="C++" />
-
-
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="VS Code" />
+</p>
+
+---
+
+### 📊 Estadísticas
+
+<div align="left">
+  <img src="https://vercel.app" height="165" alt="GitHub Stats" />
+  <img src="https://vercel.app" height="165" alt="Most Used Languages" />
 </div>
 
 ---
 
-### 📂 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-
-
----
-
-### 📊 Mi Actividad en GitHub
-<div align="center">
-  <img src="https://vercel.app[TU_USUARIO]&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estadísticas" />
-  <img src="https://vercel.app[TU_USUARIO]&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes más usados" />
+### 📌 Proyectos destacados
+<div align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Repo 1" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Repo 2" />
+  </a>
 </div>
