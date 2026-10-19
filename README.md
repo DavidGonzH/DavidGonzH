@@ -1,54 +1,40 @@
 <div align="center">
-  <p>Estudiante de 2º de Ingeniería Informática · C++, HTML, CSS</p>
 
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:tucorreo@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" />
-  </a>
+Estudiante de 2º de Ingeniería Informática · C++, HTML, CSS
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:tucorreo@gmail.com)
+![Followers](https://shields.io)
+
 </div>
 
 ---
 
 ### Sobre mí
 
-- 🎓 Cursando 2º de **Ingeniería Informática**
-- 🛠️ Trabajo habitualmente con **C++** desarrollando software para empresas y particulares.
+* 🎓 Cursando 2º de **Ingeniería Informática**
+* 🛠️ Trabajo habitualmente con **C++, HTML y CSS** desarrollando software para empresas y particulares.
 
 ---
 
 ### 🧰 Stack tecnológico
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![C++](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
 ### 📊 Estadísticas
 
-<p align="left">
-  <img src="https://vercel.app" height="165" />
-  <img src="https://vercel.app" height="165" />
-</p>
+![GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
 
 ---
 
 ### 📌 Proyectos destacados
 
-<p align="left">
-  <a href="https://github.com/Primero-Ingenieria-Informatica">
-    <img src="https://vercel.app" />
-  </a>
-  <a href="https://github.com/Segundo-Ingenieria-Informatica">
-    <img src="https://vercel.app" />
-  </a>
-</p>
+[![Repo 1](https://vercel.app)](https://github.com)
+[![Repo 2](https://vercel.app)](https://github.com)
