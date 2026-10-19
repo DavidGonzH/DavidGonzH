@@ -1,43 +1,48 @@
-<div align="center">
+<h1 align="center">Tu Nombre — TU_USUARIO</h1>
+<p align="center">Estudiante de 2º de Ingeniería Informática · C++</p>
 
-### Estudiante de 2º de Ingeniería Informática · C++
-
-[**` 🔗 LINKEDIN `**](https://linkedin.com) &nbsp; [**` ✉️ EMAIL `**](mailto:tucorreo@gmail.com) &nbsp; [**` 🐙 GITHUB PROFILE `**](https://github.com)
-
-</div>
+<p align="center">
+  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://shields.io" /></a>
+</p>
 
 ---
 
 ### Sobre mí
 
-* 🎓 Cursando 2º de **Ingeniería Informática**
-* 🛠️ Trabajo habitualmente con **C++**; enfocado en programación orientada a objetos, estructuras de datos, optimización de memoria y desarrollo de software para empresas y particulares.
+- 🎓 Cursando 2º de **Ingeniería Informática**
+- 🛠️ Trabajo habitualmente con **C++** desarrollando software eficiente para empresas y particulares
 
 ---
 
 ### 🧰 Stack tecnológico
 
-` ⚙️ C++ (Estándar Moderno) ` &nbsp; ` 🐧 Linux / Bash ` &nbsp; ` 🌿 Git & GitHub ` &nbsp; ` 🛠️ Makefile / CMake ` &nbsp; ` 💻 VS Code `
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Enfoque técnico y competencias
+### 📊 Estadísticas
 
-| Área en C++ | Detalles y aplicación | Nivel |
-| :--- | :--- | :--- |
-| **Estructuras de Datos y Algoritmos** | Árboles, grafos, tablas hash, punteros y gestión dinámica de memoria. | `████████░░ 80%` |
-| **Programación Orientada a Objetos** | Diseño modular, herencia, polimorfismo, plantillas (Templates) y STL. | `█████████░ 90%` |
-| **Sistemas y Bajo Nivel** | Compilación con `g++`, depuración con `gdb`, automatización con `Make`. | `███████░░░ 75%` |
+<p align="left">
+  <img height="165em" src="https://vercel.app" />
+  <img height="165em" src="https://vercel.app" />
+</p>
 
 ---
 
 ### 📌 Proyectos destacados
 
-> **📁 [Primero-Ingenieria-Informatica](https://github.com)**  
-> Prácticas y proyectos base de 1º de Ingeniería Informática desarrollados íntegramente en C++.  
-> `🟢 C++` `⭐ Destacado`
+<p align="left"> 
+  <a href="https://github.com"><img src="https://vercel.app" /></a> 
+  <a href="https://github.com"><img src="https://vercel.app" /></a> 
+</p> 
 
-> **📁 [Segundo-Ingenieria-Informatica](https://github.com)**  
-> Algoritmos avanzados, estructuras de datos y diseño de software de 2º curso.  
-> `🔴 C++` `⚙️ En desarrollo`
+---
+
+### 📫 Contacto
+
+- Correo: gonzalezhernandezdavid190@.com
+- GitHub: [@DavidGonzh](https://github.com/DavidGonzH)
 
