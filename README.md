@@ -28,9 +28,9 @@
 
 | Tecnología | Especialidad | Nivel de Dominio |
 | :--- | :--- | :--- |
-| 🟦 **C++** | Estructuras de datos, punteros, gestión de memoria y POO | `█████████░ 90%` |
-| 🟧 **Git & GitHub** | Control de versiones, trabajo colaborativo y ramas | `████████░░ 80%` |
-| 🟨 **Linux / Terminal** | Automatización, compilación y administración básica | `████████░░ 80%` |
+| 🟦 **C++** | Estructuras de datos, punteros, gestión de memoria y POO | `████████░ 80%` |
+| 🟧 **Git & GitHub** | Control de versiones, trabajo colaborativo y ramas | `███████░░ 70%` |
+| 🟨 **Linux / Terminal** | Automatización, compilación y administración básica | `███████░░ 70%` |
 
 ---
 
