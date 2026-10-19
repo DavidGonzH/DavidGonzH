@@ -1,14 +1,14 @@
 <div align="center">
-  <p>Estudiante de 2º de Ingeniería Informática · C++</p>
+  <p>Estudiante de 2º de Ingeniería Informática · C++, HTML, CSS</p>
 
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" />
   </a>
-  <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+  <a href="mailto:tucorreo@gmail.com">
+    <img src="https://shields.io" />
   </a>
   <a href="https://github.com">
-    <img src="https://shields.io" alt="Followers" />
+    <img src="https://shields.io" />
   </a>
 </div>
 
@@ -17,35 +17,38 @@
 ### Sobre mí
 
 - 🎓 Cursando 2º de **Ingeniería Informática**
-- 🛠️ Trabajo habitualmente con **C++ enfocado en estructuras de datos y desarrollo de software para empresas y particulares.
+- 🛠️ Trabajo habitualmente con **C++** desarrollando software para empresas y particulares.
 
 ---
 
 ### 🧰 Stack tecnológico
 
 <p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
 
 ### 📊 Estadísticas
 
-<div align="left">
-  <img src="https://vercel.app" height="165" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="165" alt="Most Used Languages" />
-</div>
+<p align="left">
+  <img src="https://vercel.app" height="165" />
+  <img src="https://vercel.app" height="165" />
+</p>
 
 ---
 
 ### 📌 Proyectos destacados
-<div align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Repo 1" />
+
+<p align="left">
+  <a href="https://github.com/Primero-Ingenieria-Informatica">
+    <img src="https://vercel.app" />
   </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Repo 2" />
+  <a href="https://github.com/Segundo-Ingenieria-Informatica">
+    <img src="https://vercel.app" />
   </a>
-</div>
+</p>
