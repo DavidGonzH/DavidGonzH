@@ -1,5 +1,5 @@
 <h1 align="center">David — DavidGonzH</h1>
-<p align="center"><b>Estudiante de 2º de Ingeniería Informática · Desarrollador C++</b></p>
+<p align="center"><b>Estudiante de 2º de Ingeniería Informática ·  C++</b></p>
 
 <p align="center">
   <a href="mailto:gonzalezhernandezdavid190@gmail.com"><kbd> ✉️ ENVIAR EMAIL </kbd></a>
