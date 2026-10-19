@@ -36,10 +36,13 @@
 
 <p align="left"> 
   <a href="https://github.com"><img src="https://vercel.app" /></a> 
+  <a href="https://github.com"><img src="https://vercel.app" /></a> 
 </p> 
 
 ---
 
 ### 📫 Contacto
 
+- Correo: tucorreo@gmail.com
 - GitHub: [@DavidGonzH](https://github.com)
+
