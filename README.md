@@ -49,9 +49,9 @@ Perfil Técnico:
 ### 📌 Proyectos destacados
 
 > [!TIP]
-> ### 📁 [DavidGonzH / Proyects](https://github.com)
+> ### 📁 [DavidGonzH / Proyects](https://github.com/DavidGonzH/Proyects.git)
 > Proyectos y prácticas de programación desarrollados como estudiante de Ingeniería Informática.  
-> 🔵 **`C++`** &nbsp; ⭐ **`Repositorio Público`** &nbsp; 👉 [**Ver código fuente aquí**](https://github.com)
+> 🔵 **`C++`** &nbsp; ⭐ **`Repositorio Público`** &nbsp; 👉 [**Ver código fuente aquí**](https://github.com/DavidGonzH/Proyects.git)
 
 > [!IMPORTANT]
 > ### 📫 Contacto directo
