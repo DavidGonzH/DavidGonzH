@@ -1,4 +1,4 @@
-<h1 align="center">Tu Nombre — TU_USUARIO</h1>
+<h1 align="center">David — DavidGonzH</h1>
 <p align="center">Estudiante de 2º de Ingeniería Informática · C++</p>
 
 <p align="center">
